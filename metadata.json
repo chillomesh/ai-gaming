@@ -1,0 +1,8 @@
+{
+  "name": "Flappy Bird Arcade",
+  "description": "A classic retro Flappy Bird arcade game built with HTML5 Canvas, procedural graphics, dynamic physics, and Web Audio effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
